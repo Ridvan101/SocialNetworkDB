@@ -3,6 +3,6 @@
 
 ## Description
 
-Social Network DB is MySQL relational database customized for development of social network. It contains fields adjusted to every type of data in the database. Database also includes functions for automated manipulating with different inputs and finding desired information in selected tables.   
+Social Network DB is MySQL relational database customized for development of social networks. It contains fields adjusted to every type of data in the database. Database also includes functions for automated manipulating with different inputs as well as for finding desired information in selected tables.   
 
 
