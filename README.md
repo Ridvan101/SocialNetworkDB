@@ -1,5 +1,5 @@
 # SocialNetworkDB
-Model of MySQL Relational Database Tailored for Social Network
+This is MySQL relational database customized for development of social network.
 
 ## Description
 
